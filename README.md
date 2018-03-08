@@ -1,4 +1,7 @@
-# SYMC-Web-Crawler
+# Influence Predictor
+
+Symantec Hackathon 2016.
+
 User Guide
 
 1.	Register with SYMC Crawler 
